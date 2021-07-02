@@ -1,1 +1,9 @@
-# day-planner
+# Day Planner
+
+## Description
+
+## Illustration
+
+## Usage
+
+## Credits
